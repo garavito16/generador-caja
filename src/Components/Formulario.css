@@ -1,0 +1,31 @@
+.agrupar {
+    padding: 1.0em;
+    margin-top: 1.0em;
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.inputAgrupar {
+    width: 170px;
+}
+
+.labelAgrupar {
+    display: inline-block;
+    width: 90px;
+}
+
+.botoncito {
+    padding: 1.0em 2.0em;
+    background-color: green;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.divBotoncito {
+    margin-top: 1.0em;
+}
+
+.formulario {
+    width: 300px;
+    margin: auto;
+}
